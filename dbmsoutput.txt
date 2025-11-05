@@ -1,0 +1,20 @@
+DBMS Output sql
+ 1/1
+ Order 1 total = 0
+ Order Created, ID = 1; Total = 7900
+ Low stock report (threshold=50)
+ Bulk restock performed.
+ orders_archive created (if older orders existed).
+ Order 1 total = 7900
+ Current stock before restock: 198
+ Stock after restock: 223
+ Order Created, ID = 2; Total = 7900
+ Low stock report (threshold=50)
+ Low stock report (threshold=80)
+ Log entry added.
+ Testing inventory management...
+ Stock for product 1: 221
+ orders_archive already exists.
+ Order Created, ID = 3; Total = 7900
+ Inventory updated for Product ID: 201
+ Inventory updated for Product ID: 201
